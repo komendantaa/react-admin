@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+
+.submenu div div {
+    padding-left: 30px!important;
+    color: rgba(0, 0, 0, 0.54);
+}
+
+.imgSmall img {
+    height: 50px;
+}
+
+form .customBtn {
+    width: auto;
+    font-size: 1rem
+}
+
+button.notification a {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+}
